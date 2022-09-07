@@ -1,3 +1,5 @@
+#GPL-3.0-only
+
 from tkinter import *
 
 mainw = Tk()
