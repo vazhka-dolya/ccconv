@@ -1,5 +1,6 @@
 # ccconv
 A program for converting the region of SM64 colorcodes.
+# <img src="https://github.com/vazhka-dolya/ccconv/blob/main/img/screenshot1.png?raw=true">
 
 # In detail
 Gameshark cheat codes are different for each region, this means that, for instance, you cannot use a cheat code for the US version in the Japanese version, including colorcodes. ccconv fixes that problem by converting the colorcode's other region's addresses to desired region's addresses (This program is only able to convert colorcodes, it is not possible to do that for every single cheat code).
