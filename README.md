@@ -1,6 +1,6 @@
 # <img src="https://github.com/vazhka-dolya/ccconv/blob/main/img/logo.png?raw=true">
 # ccconv
-A program for converting the region of SM64 colorcodes.
+A program for converting the region of Super Mario 64 colorcodes.
 # <img src="https://github.com/vazhka-dolya/ccconv/blob/main/img/screenshot1.png?raw=true">
 
 # In detail
