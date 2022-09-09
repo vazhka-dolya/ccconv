@@ -209,7 +209,7 @@ def PasteButton(x, y):
 def AboutLabel(anchor):
     AboutLabel = Label(
             MainWindow,
-            text = "ccconv v1.0.0\nMade by vdolya\nMy GitHub: https://github.com/vazhka-dolya"
+            text = "ccconv v1.1.0\nMade by vdolya\nMy GitHub: https://github.com/vazhka-dolya"
             )
 
     AboutLabel.place(
