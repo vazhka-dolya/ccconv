@@ -7,3 +7,6 @@ also please don't bully me for my garbage code i'm new to python
 
 # How to use
 It's pretty simple, on the left you insert your colorcode and choose the region it currently has, on the right you choose the region you want to convert your colorcode to. Then you click "Convert" and the converted colorcode appears in the right text area.
+
+# Credits
+The addresses were taken from https://sm64code.the404.nl/
