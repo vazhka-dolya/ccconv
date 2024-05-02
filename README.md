@@ -1,3 +1,5 @@
+# (This repository is now archived because I don't plan on making any updates on it, furthermore, [katarakta](https://github.com/vazhka-dolya/katarakta) has a colorcode converter)
+
 # <img src="https://github.com/vazhka-dolya/ccconv/blob/main/img/logo.png?raw=true">
 # <img src="https://github.com/vazhka-dolya/ccconv/blob/main/img/screenshot1.png?raw=true">
 
